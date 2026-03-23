@@ -515,9 +515,18 @@ body{
     background-color: #2563eb;
 }
 
-.card h1{
+.card h3{
     margin-left: 12px;
 
+}
+#pro_a{
+    font-size:14px;
+    color: #a6b3e3;
+    margin-left: 12px;
+    width: 100px;
+}
+#pro_a:visited{
+    color: #374d9d;
 }
 
 .card p{
